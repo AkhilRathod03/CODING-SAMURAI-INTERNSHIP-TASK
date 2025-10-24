@@ -1,0 +1,5 @@
+1	The Lord of the Rings	J.R.R. Tolkien	false	null
+2	Pride and Prejudice	Jane Austen	false	null
+3	To Kill a Mockingbird	Harper Lee	false	null
+4	The Great Gatsby	F. Scott Fitzgerald	false	null
+5	Moby Dick	Herman Melville	false	null
